@@ -1,4 +1,3 @@
-
 import java.awt.*;
 import java.util.concurrent.TimeUnit;
 
@@ -85,5 +84,8 @@ public class Casovnik extends Thread{
 
 		 }
 	  }
+	  
+	  //some new comments is in the house
+	  //how just look and take it easy!!
 	  
 }
