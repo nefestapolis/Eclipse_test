@@ -1,7 +1,8 @@
-
 import java.awt.Label;
 
 public class Ulaz extends Thread{
+	
+	//asdfgasdfasdf
 	
 	private int minDolazi,maxDolazi;
 	private static int minBoravi,maxBoravi;
